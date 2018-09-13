@@ -1,4 +1,4 @@
 class ProductQuantity < ApplicationRecord
   belongs_to :product
-  belongs_to :sale
+  belongs_to :sale, optional: true
 end
