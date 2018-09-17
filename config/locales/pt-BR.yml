@@ -12,7 +12,7 @@ pt-BR:
     attributes:
       client:
         name: "Nome"
-        company_name: "Nome da Empresa"
+        company_name: "Representantes Comerciais"
   views:
   admin:
     home:
