@@ -45,6 +45,9 @@ gem 'cancancan', '~> 1.15.0'
 # Carrierwave
 gem 'carrierwave'
 
+# Rails Admin Rollincode - to customize the Rails Admin
+gem 'rails_admin_rollincode', '~> 1.0'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
