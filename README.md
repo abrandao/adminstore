@@ -1,5 +1,8 @@
 # README
 
+<strong>Master branch</strong><br />
+<img src="https://ci.appveyor.com/api/projects/status/github/abrandao/adminstore?branch=master&svg=true" alt="Project Badge" with="300">
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
